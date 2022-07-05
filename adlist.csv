@@ -30,5 +30,5 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 35,https://v.firebog.net/hosts/Shalla-mal.txt,1,1609921208,1609921208,,1651213414,19239,0,2
 36,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1609921215,1609921215,,1654390632,8147,0,2
 37,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1609921222,1609921222,,1651213414,2190,0,2
-38,https://urlhaus.abuse.ch/downloads/hostfile/,1,1609921229,1609921229,,1657016414,1122,0,1
+38,https://urlhaus.abuse.ch/downloads/hostfile/,1,1609921229,1609921229,,1657016414,1122,0,2
 39,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1609921237,1609921237,,1651213416,3496,0,2
